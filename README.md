@@ -7,7 +7,7 @@ To run AMSES-MSF-FSL on Sock-shop, run the following command:
 
 python test_sock_shop.py --mode --data_path <data_path> --dataset
 
-To run AMSES on AMSES-MSF-FSL, run the following command:
+To run AMSES-MSF-FSL on Train-Ticket, run the following command:
 
 python test_train_ticket.py --mode --data_path <data_path> --dataset
 
