@@ -2,7 +2,7 @@
 Description
 This repository includes codes and data for AMSES-MSF-FSL. AMSES-MSF-FSL is An Autonomous Predictive Model Construction Framework
 
-Code
+# Code
 To run AMSES-MSF-FSL on Sock-shop, run the following command:
 
 python test_sock_shop.py --mode --data_path <data_path> --dataset
